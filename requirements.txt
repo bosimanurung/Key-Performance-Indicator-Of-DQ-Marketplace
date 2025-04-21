@@ -1,6 +1,8 @@
 streamlit
 pandas
 openpyxl
-pandasql
 matplotlib
-streamlit-aggrid
+numpy
+os
+geopandas
+PIL
